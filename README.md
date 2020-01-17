@@ -12,3 +12,4 @@ https://www.xilinx.com/html_docs/xilinx2019_2/vitis_doc/Chunk2002802310.html#mik
 
 
 https://www.xilinx.com/support/documentation/ip_documentation/dpu/v3_1/pg338-dpu.pdf
+sudo apt install device-tree-compiler
