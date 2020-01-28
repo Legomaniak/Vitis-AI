@@ -22,7 +22,7 @@ Tutorial of implementing custom neural network on custom board (ZCU106)
 ## Vitis Install/launch
   
 ## Create custom design
-Based on <a href="https://www.xilinx.com/html_docs/xilinx2019_2/vitis_doc/Chunk1854106950.html#ariaid-title4" target="_blank">link<a/>
+Based on <a href="https://www.xilinx.com/html_docs/xilinx2019_2/vitis_doc/Chunk1854106950.html#ariaid-title4" target="_blank">link<a/>\
 Additional steps on <a href="https://www.xilinx.com/html_docs/xilinx2019_2/vitis_doc/Chunk2002802310.html#mik1571785455583" target="_blank">link<a/>
 1. Create project for your board\
   Add files to project dir (TODO: file names)
