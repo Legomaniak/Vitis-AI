@@ -1,4 +1,4 @@
-# <a href="https://www.xilinx.com/products/design-tools/vitis/vitis-ai.html" target="_blank">Vitis-AI<a/>™ Xilinx’s development platform for AI inference
+# <a href="https://www.xilinx.com/products/design-tools/vitis/vitis-ai.html" target="_blank">Vitis-AI<a/> Xilinx’s development platform for AI inference
 Tutorial of implementing custom neural network on custom board (ZCU106)
 
 ## Prerequisite
