@@ -4,7 +4,7 @@ Tutorial of implementing custom neural network on custom board (ZCU106)
 ## Prerequisite
 * OS Linux Ubuntu 16.04 <a href="http://releases.ubuntu.com/16.04/" target="_blank">link</a>
 * Xilinx Vitis 2019.2 or newer <a href="https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis.html" target="_blank">link</a>
-* Petalinux tools (same version as Vitis)<a href="https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html" target="_blank">link</a>
+* Petalinux tools (same version as Vitis) <a href="https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html" target="_blank">link</a>
 * Download <a href="https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html" target="_blank">Board Support Packages<a/>  
 * Clone repositories (same branch as version of Vitis)
 	```
@@ -28,9 +28,9 @@ Additional steps on <a href="https://www.xilinx.com/html_docs/xilinx2019_2/vitis
   Add files to project dir (TODO: file names)
 2. Add all components in guide, rename parts/signals, setup platform (TODO: TCL scrypt)
 3. Synthetize design (no bitstream required)  
-	```
+  ```
   TODO: genarate TCL scrypt
-	```
+  ```
 4. Save hardware info (*.XSA)
 
 ## Setup Petalinux
