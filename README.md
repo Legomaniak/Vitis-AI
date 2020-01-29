@@ -54,6 +54,21 @@ Based on <a href="https://www.xilinx.com/html_docs/xilinx2019_2/vitis_doc/Chunk3
 * File for SD card
 
 ## Compile network
-* run docker
+* Run docker
+* Generater dpu info file
+  ```
+  dle /DPU-TRD/prj/Vitis/binary_container_1/sd_card/design_1.hwh
+  ```
+  and rename it to `ZCU106.dcf`
+  
+* Create board info file `ZCU106.json` for compiler
+  ```
+  {
+  	"target": "dpuv2",
+	"dcf": "ZCU106.dcf",
+	"cpu_arch": "arm64"
+  }
+  ```
+
 
 ## Create application
